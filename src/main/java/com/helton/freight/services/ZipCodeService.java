@@ -3,8 +3,6 @@ package com.helton.freight.services;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.springframework.web.client.RestTemplate;
-
 import com.helton.freight.models.FreightOrderRequest;
 import com.helton.freight.models.ZipCode;
 
